@@ -239,4 +239,4 @@ export function useData() {
     throw new Error('useData must be used within a DataProvider');
   }
   return context;
-}</parameter>
+}

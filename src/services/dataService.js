@@ -296,4 +296,4 @@ class DataService {
   }
 }
 
-export default new DataService();</parameter>
+export default new DataService();

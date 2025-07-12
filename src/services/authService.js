@@ -220,4 +220,4 @@ class AuthService {
   }
 }
 
-export default new AuthService();</parameter>
+export default new AuthService();
